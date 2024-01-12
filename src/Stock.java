@@ -1,4 +1,5 @@
 public class Stock {
+    /* UC1  Stock account management.*/
     //instance variable ompanyName,stockName,numberOfShares,sharePrice)
     String companyName;
     String stockName;
@@ -40,8 +41,5 @@ public class Stock {
     {
         return  sharePrice* numberOfShares;
     }
-   /* public double remainingShare()
-    {
-        return  noOfStocks-noOfShare;
-    }*/
+
 }

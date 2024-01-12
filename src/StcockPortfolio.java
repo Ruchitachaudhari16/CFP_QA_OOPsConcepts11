@@ -2,7 +2,7 @@ import java.util.*;
 
 public class StcockPortfolio
 {
-
+/* UC1- stock account manaemenr"*/
     //Create ArrayList of Stock Class.
     ArrayList<Stock> stocks = new ArrayList<>();
    //Add stock

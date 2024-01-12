@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class StockAccountManagement {
+    /*UC1* Stock account management*/
     public static void main(String[] args) {
         StcockPortfolio sp = new StcockPortfolio();
         Scanner sc = new Scanner(System.in);
